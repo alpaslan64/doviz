@@ -6,4 +6,4 @@
 
 -Bu projede BeautifulSoap, OS, time, request kütüphanelerini kullandık. 
 
--Web scraper için Request ve BeautifulSoap, terminali temizlemek için OS, bekleme süresi eklemek için time kütüphanesini kullandık.
+-Web scraper için Request ve BeautifulSoap, terminali temizlemek için OS, bekleme süresi eklemek için time kütüphanesini kullandık. 
