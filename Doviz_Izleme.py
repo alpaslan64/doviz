@@ -37,4 +37,4 @@ while True:
     system("cls")
     #Burada da sonsuz döngüde fonksiyon çalışıyor, 2 saniye bekliyor sonra terminali temizliyor. Bu şekilde döngü devam ediyor.
     
-# Yapımcılar = https://github.com/alpaslan64 || 
+# Yapımcılar = https://github.com/alpaslantiryaki || 
